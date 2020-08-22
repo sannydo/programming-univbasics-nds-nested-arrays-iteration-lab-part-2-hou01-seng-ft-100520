@@ -4,7 +4,7 @@ def find_min_in_nested_arrays(src)
       if src[array_1].smallest?
         p find_min_in_nested_arrays = src[array_1]
       array_1 += 1
-end
+   end
 
 def find_min_in_nested_arrays(src)
   new_array = []
